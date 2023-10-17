@@ -1,0 +1,95 @@
+---
+title: "PLANDOCDAY8"
+---
+
+## DAY8
+
+------------------------------------------------------------------------
+
+T Standardized Statistic: 50 minutes
+
+**Objectives:**
+
+> Students will be able to calculate the standardized statistic for a mean with unknown population variance
+>
+> Students know how to obtain t scores and t critical values
+>
+> Students know when to use a T score vs a Z score
+>
+> Students should know the meaning and purpose of a standard error.
+
+**Concepts:**
+
+> T Statistic
+>
+> Standard Error
+>
+> Degrees of Freedom
+>
+> Circumstantial Flow Chart
+
+**Intuition Tools:**
+
+> simulation limit
+>
+> df as measure of normality
+
+**Lesson Material:**
+
+In the last session, we had plotted averages calculated from samples to make a sampling distribution. While we noticed that the distribution became more bell shaped as the sample size increased, it can also be noticed that the variance decreased as the sample size increased.
+
+This makes sense, as larger samples are more resistant to random chance, and an outline is less likely to effect an average as the amount of samples gets larger.
+
+At this point, a prepared code (Already prepared, will be included) will show that the what happens to the variance (visually) as the sample size goes up, until eventually the sampling distribution only contains about one small class of values.
+
+Its evident that the variance is decreasing, but we actually have a formula to approximate it: the standard error.
+
+$$
+Standard Error =\sqrt{\frac{variance}{n}}
+$$
+
+STANDARD ERROR: The approximate standard deviation of the sampling distribution.
+
+This is a fun fact that will become more relevant later, but in regards to todays lesson, if we replace the population variacne in the Z statistic formula with the standard error, we can calculate the T statistic:
+
+$$
+Z= \frac{x-\mu}{\sigma}
+$$
+
+$$
+T= \frac{\bar{x}-\mu}{\sqrt{\frac{s}{n}}}
+$$
+
+Now the system for the critical value, standardized statistic, and p value is the same as before: we use a table, but there is an extra aspect to look out for: the degrees of freedom.
+
+The degrees of freedom in this context is just the sample size minus 1.
+
+$$
+df = n-1
+$$
+
+So the degrees of freedom is directly connected to the sample size.
+
+If you look at a T table, you may notice that as the degrees of freedom increases, the T score approaches values that are identical to the Z score table.
+
+This effect is related to central limit theorem, and also makes sense because as a sample increases, it becomes more steadily reflective of the population #review this passage, more specifically on central limit theorem.
+
+DEGREES OF FREEDOM: the maximum number of logically independent values, which are values that have the freedom ton vary. You can also think of this as a measure of how close the statistic is approaching the Z.
+
+With this information, you can calculate T statistics with a method almost identical to the way Z statistics were calculated. But what is the relevance of the T statistic?
+
+If the sample variance is unknown (as it most often tends to be), and we are calculating this score using a sample mean, then the Z statistic will not work. (to explain this decision making process, a flowchart will be attached in the handout)
+
+**Assessment**
+
+Z VS T: Students will be given a variety of circumstances which would prompt the use of a standardized statistic, and will be asked if they are to use the theory based Z, theory based T, or neither. there will be no evaluation in this portion.
+
+T SCORE: Students will be given a circumstance prompting the use of a T statistic, and given the sample size, sample variance, null mean, and sample average, they will be asked to find if their value is significant.
+
+One example will require them to calculate the exact p value with a table, and the other will ask if there is significant evidence to reject the null given a specific critical value for a specific standard of significance.
+
+SAMPLING DISTRIBUTION: Students will be given a sample with a sample variance and sample size, and they will be asked to estimate the standard deviation of the sampling distribution with that information.
+
+This will test if they are aware that the standard error is an approximation for the sampling distribution.
+
+the next sampling distribution will provide the population mean and population variance, ask them to estimate the mean of the sampling distribution. With this question, all they need is the mean as the population mean is approximately equal to the mean of the sampling distribution.

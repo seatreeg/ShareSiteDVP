@@ -1,0 +1,121 @@
+---
+title: "PLANDOCDAY7"
+---
+
+## DAY7
+
+------------------------------------------------------------------------
+
+Sampling Distributions and Z Standardized Statistic: 50 minutes
+
+**Objectives:**
+
+> Students will be able to correctly predict what happens to a sampling distribution as sample size increase
+>
+> Students can correctly differentiate between the sampling distribution and the distribution of the sample
+>
+> Students understand why the normal distribution is present in so many different areas.
+>
+> Students know when to use the theory based approach for significance
+
+**Concepts:**
+
+> Adding up averages at different sample size
+>
+> Sampling distribution
+>
+> CLT (bell shape approach)
+>
+> Normal Distribution/ T distribution (above contextual)
+>
+> Standard statistic (sim and theory)
+>
+> critical value
+>
+> P Value with distance and variance (overlap)
+>
+> recipe for low p(4 cases)
+
+**Intuition Tools:**
+
+> standardized stat graphed along standard deviation image
+
+**Lesson Material:**
+
+At the beginning of class the students will be asked if they have heard of the normal distribution, or how it shows up everywhere. (I had asked this question to our students and a surprising majority said yes) I will then ask why and begin the example.
+
+The lesson will begin with a random number generator, which is set to roll random numbers between 0 and 4. As we generate random numbers, these will be tallied on a histogram.
+
+After enough values are recorded, the process will be repeated but with an average of two rolls instead of one,
+
+Then the process will be repeated for an average of 4 numbers.
+
+What we are creating is sampling distributions:
+
+SAMPLING DISTRIBUTION: a distribution of a statistic obtained from a large number of samples pulled from a population. In other words, the distribution of the means. (in this context)
+
+Eventually, the original uniform rectangle will start to form a mound shape, hinting at a pattern.
+
+A variety of programs will then be shown running larger numbers and for different distributions, and all of them will come back mound shaped.
+
+Visually, this is the normal distribution, and what we are seeing is central limit theorem at work.
+
+CENTRAL LIMIT THEOREM: in many situations, for independent and identically distributed random samples, the distribution of the sample means approximates the normal distribution. In other words, the plot of the means often becomes normal.
+
+Using this system, we can then sim the distribution, and count the relative proportion to get out P value.
+
+But if a simulation is impractical, we can still just draw out a normal distribution given our null average and null variance and find where our score lies. This is a continuous distributions, so counting how much area this takes up will be difficult.
+
+Some people have calculated the amount of area past a certain point on a normal distribution, but there is a problem: it is only for a very specific distribution at mean=0 and variance = 1.
+
+Thankfully, we can do some fancy math (which will not be on the test and will be purely for conceptual understanding) where we shift and divide our normal distribution resulting in an equation that can also shift and divide that value we want to find the significance for (this math will be performed in front of the class)
+
+This equation will give us our standardized statistic
+
+STANDARDIZED STATISTIC=A value which represents how many standard deviations an input value is from the mean of the null distribution.
+
+With this statistic, we have two options:
+
+1\) we can use our standardized statistic on a Z table to calculate the P value
+
+This is direct, just using a table
+
+2\) we can find the critical value for our significance level and see if our standardized statistic is beyond that.
+
+Our critical value depends on two things, the standard of significance we desire, and if we are interested in a "greater", "less than" ,or "not equal to" hypothesis.
+
+CRITICAL VALUE: Point on distribution, in standard deviations, where standardized statistics beyond that value are considered significant.
+
+This also is derived from tables, but you only need to know one value for each significance standard and type of hypothesis.
+
+The use of these tables to find the critical value will then be shown. All 3 hypothesis values will be recorded.
+
+If we are interested if a value is not equal to the the null, than the critical value is 1.96, every single time.
+
+So the process here is very simple, we just input our value into the standard statistic formula, and if the absolute value of that number is greater than 1.96, then we know that the value is significant assuming a required p value of 0.05 or less.
+
+NOTE: a larger difference from the mean increases the Z score, and a lower variance also increases the z score. This hints at the the fact that larger differences from the mean and lower variances tend to make lower p values.
+
+This process shouldn't be applied to every situation, as there are some validity conditions:
+
+-   Large enough sample size (subjective, but in our course 10 failures and 10 successes or 20 quantitative samples is enough)
+
+-   Distribution must not be skewed or in general non-bell shaped
+
+-   If the variable is not a proportion and is instead a mean, and population variance is not known, a t statistic has to be used instead of a z statistic (in next lesson)
+
+Simulation ALWAYS works, however. #review this
+
+------------------------------------------------------------------------
+
+**Assessment:**
+
+STANDARDIZED SIGNIFICANCE: Students will be given 10 circumstances, and only 3 where the validity conditions are met. If the validity conditions are not met, the student may skip the problem, if the validity contentions are met they will use the theory approach to calculate the standard statistic and determine if the value is significant.
+
+the sample sizes will be given, and the distribution will appear visually on the right. The information will either be proportional or mean based, and the population deviation may or may not be given. Using that information, students will have to select their answers.
+
+This will test their ability not only to calculate the standardized statistic, but also when to use that approach.
+
+RRECIPE FOR LOW P VALUE: Students will be given 4 circumstances {variance low; x - mean = low \|\| variance high, x - mean = low \|\| variance low, x - mean = high, variance high, x - mean = high} and are asked to determine which circumstance would have the lowest p value.
+
+From the a standardized statistic formula, they should be able to find that \[variance low, x - mean = high\] has the lowest p value as it produces the highest standardized statistic.

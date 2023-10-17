@@ -1,0 +1,95 @@
+---
+title: "PLANDOCDAY4"
+---
+
+## DAY4
+
+------------------------------------------------------------------------
+
+Short concept Time - Variability: 50 minutes
+
+**Objectives:**
+
+> Students know how to identify the measure of central tendency of a distribution, visually
+>
+> Students can calculate standard deviation from variance, and variance from standard deviation
+>
+> Students can look at two graphs and estimate which one has a higher variance
+
+**Concepts:**
+
+> Review: relative frequency histograms
+>
+> Review: probability distributions
+>
+> Review: shape
+>
+> Review: Central Tendencies (visual review)
+>
+> Variability: variance and stdev
+>
+> outliers
+
+**Intuition Tools:**
+
+> Dot counting
+>
+> Variability as big boot
+
+**Lesson Material:**
+
+Most of these concepts will be review, so I will quickly elaborate:
+
+MEASURES OF CENTRAL TENDENCY: mean, median, mode
+
+Then we will show a graph with a visible outlier, except we will note that outliers are somewhat subjective and not a mathematical truth, and that studies rarely just remove outliers as outliers can be expected
+
+OUTLIER: a data point that differs significantly from the rest of the data. What counts as an outlier is subjective and outliers aren't usually removed from data outside of specific circumstances.
+
+We will then go over some visual examples of higher variability in distributions, and that variacne and standard deviation are a means to measure this variability.
+
+We will then state that the stdeviation is just the square root of the variance
+
+$StandardDeviation=\sqrt{Variance}$
+
+It will be noted that variance is calculated by taking the average difference between all of the values and the mean, so variance is another form of average, but not a measure of central tendency
+
+NOTE: xbar=mean
+
+$Variance(population)= \frac{\sum_{i=1}^{n}(x_{i}-\bar{x})}{n}$
+
+$Variance(sample)= \frac{\sum_{i=1}^{n}(x_{i}-\bar{x})}{n-1}$
+
+This formula will be of conceptual importance, but will likely not be actually used.
+
+I will then show some examples of charts with low variance and charts with high variance (these are placeholders that were used in the handout, for lecture, I would prefer more chaotic sim examples)
+
+```{r}
+x<- seq(-3,3, length=10000)
+y=dnorm(x, sd=0.5)
+
+plot(x,y, main="distribution with lower variance")
+```
+
+```{r}
+x<- seq(-3,3, length=10000)
+y=dnorm(x, sd=1.5)
+
+plot(x,y,
+     ylim=c(0,.8),
+     main="distribution with higher variance")
+```
+
+One way to think about this is to pretend that the distribution is being stomped on by a big boot, and the the higher the variance, the heavier the boot, the flatter and more spread it ends up
+
+**ASSESSMENT:**
+
+A single activity will be given to asses the concepts above. Students will be paired into groups with large writing devices. They will then be given a two large dot histogram plots on the screen and asked to identify the following
+
+-   measures of central tendency (all 3)
+
+-   identify any outliers
+
+-   state which distribution has the higher variance
+
+-   why, in words, you chose the distribution you chose.

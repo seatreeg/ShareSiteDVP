@@ -1,0 +1,125 @@
+---
+title: "PLANDOCDAY1"
+---
+
+## DAY 1
+
+------------------------------------------------------------------------
+
+**Syllabus Day: 25 minutes**
+
+**Objectives:**
+
+> Students understand course expectations
+>
+> Students understand the policies in place for the class
+>
+> Students are aware of what resources and accommodations are available to them
+>
+> Core rules are stressed enough to be easily remembered
+
+**Concepts:**
+
+> The syllabus
+
+Just for safety, I will check here to make sure everyone understands mean, median, and mode. You never know where someone is coming from, and I wouldn't mind going over it.
+
+Activity: Students will be assigned a starter activity (at home)so I know some basic info about their perception of the class, concerns, and how to address them.
+
+------------------------------------------------------------------------
+
+**\-\-\--\>First Lecture: 25 minutes**
+
+**Course objectives**
+
+> Students know the main datatypes and when to use them
+>
+> Students can draw a connection chart (flowchart labeled how they are related to each other) between classes, histograms, relative frequency histograms, and probability distributions
+>
+> Students can label the shape of distributions fitting the main distribution shapes
+
+**Concepts:**
+
+> variable
+>
+> categorical vs quantitative
+>
+> classes
+>
+> histograms/relative frequency histograms
+>
+> probability distributions
+>
+> shape
+
+**Intuition Tools:**
+
+> Probability distributions as machines that pump out random numbers
+>
+> Probability as area, in literal square meters
+>
+> Probability distributions as historgrams
+>
+> Discrete as dice
+>
+> Continuous as spinner
+>
+> Ray gun skew
+
+**Lesson material:**
+
+VARIABLE: this is any measurable quality of an entity
+
+Variables have two subgroups:
+
+CATEGORICAL: relating to groups which can be represented by numbers, but do not operate like numbers. Their spacing is either inconsistent or illogical.
+
+Categorical variables have two groups:
+
+nominal: groups which have no implied order ("carbs", "protein", "fats")
+
+ordinal: groups which have an implied order, but not necessarily a number (letter grades, outcome of a race)
+
+QUANTITATIVE: measurements that have numerical values that operate like regular integers/real numbers do. Their spacing is even and predictable.
+
+Quantitative variable shave two groups:
+
+discrete: If there are finite points between two points in the set, the variable is discrete (people in a room, dice roll points, number of trials succeeded)
+
+##I need to find out if rationals are discrete or continuous; update, apparently its continuous
+
+##personal note: some classes discuss the ratio and interval data types, but I had found this setup with continuous and discrete more relevant to this kind of statistics work.
+
+continuous: if there is an infinite number of points between two points, the variable is continuous (time, distance(kinda), mass(big kinda))
+
+CLASSES: groups of values chunked together, usually to groupn a bunch of values that would be disorderly otherwise
+
+HISTOGRAM: chart that essentially tallies the number of items that fit in each class in a set, except instead of using tallies, you fill in bars.
+
+RELATIVE FREQUENCY HISTOGRAM: chart thats exactly like a histogram, but instead of being charted by the number of values in a class, its the number of values in a class divided by the total, forming a fraction between 0 and 1 (equivalently forming a percent between 0% and 100%)
+
+PROBABILITY DISTRIBUTION: Much like the relative frequency histogram, but instead of thinking of the chart as the outcome of a measurement, it is treated as a machine that pumps out results. The probability of each result is the percentage seen on the side. NOTE: the idea of RVs as the outputs of a machine will be one of the intuition tools used in this class
+
+Important note: the probabilities can be added up, as the bars take up a certain amount of area, and area = probability (or at least, this is a way of thinking about it visually, which i intend to use to make statistics more intuitive and visual)
+
+DISCRETE DISTRIBUTION: Probability distribution, but with discrete values ONLY. Think dice.
+
+CONTINUOUS DISTRIBUTION: Probability distribution, with an infinite number of values between two points. Think wheel spinner, but with no pegs - just a rainbow of possible hues.
+
+SHAPE: the literal shape of a distribution, but rather than using traditional shapes, we use words like symmetric, non symmetric ,skewed, unimodal, bimodal, and uniform. (this is where a picture will be provided with these shapes)
+
+skewed right: mean\>median\>mode(peak)
+
+skewed left: mean\<median\<mode(peak)
+
+Symmetric unimodal: mean=median=mode
+
+Here I plan to use the ray gun example on how to remember which skew it is. (the ray gun example is a strategy I came up with to remember skew, if the ray gun is pointing right, its skewed right, if the ray gun is pointing left, its skewed left)
+
+**Assessment:**
+
+DATATYPES: To assess the students knowledge of datatypes, they will be given a list of variables and told to arrange them into certain boxes by their datatype. For example, if the variable "time required to finish a test" is given, it will be put in the variable\>quantitative\> continuous
+
+DISTRIBUTIONS AND CHARTS: Students will be given a list of numbers, and a desired class size, and from that they will be asked to count the classes, make a histogram, then a relative frequency histogram, then a discrete probability distribution by hand. Finally, they will be asked to use the chart determine the probability of getting a number in one of two of the classes, which can be added. #verify accuracy of this last part\\
+
+SHAPE: Students will be given two exercises to asses the knowledge of shape. The first will be to observe a few distributions and declare their shape, and the next part they will be given a mean, median, and mode (then later just two) and asked to determine the skew of a distribution.

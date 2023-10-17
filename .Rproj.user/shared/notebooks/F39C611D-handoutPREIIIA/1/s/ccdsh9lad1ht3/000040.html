@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<style>body{background-color:white;}</style>
+<script src="lib/htmlwidgets-1.6.2/htmlwidgets.js"></script>
+<script src="lib/viz-1.8.2/viz.js"></script>
+<link href="lib/DiagrammeR-styles-0.2/styles.css" rel="stylesheet" />
+<script src="lib/grViz-binding-1.0.10/grViz.js"></script>
+
+</head>
+<body>
+<!-- htmlwidget-container-begin -->
+<div class="grViz html-widget html-fill-item-overflow-hidden html-fill-item" id="htmlwidget-9e6f6a4acfa8df8921d6" style="width:504px;height:504px;"></div>
+<!-- htmlwidget-container-end -->
+<script type="application/json" data-for="htmlwidget-9e6f6a4acfa8df8921d6">{"x":{"diagram":"digraph {\n\ngraph [layout = dot, rankdir = LR]\n\n\n# define the global styles of the nodes. We can override these in box if we wish\nnode [shape = rectangle, style = filled, fillcolor = Linen]\n\nvar  [label = \"variable\", textcolor = red]\ncat [label = \"categorical\"]\nquant [label =  \"quantitative\"]\nord [label = \"ordinal\"]\nnomi [label= \"nominal\"]\ndisc [label= \"discrete\"]\ncont [label= \"continuous\"]\n\n# edge definitions with the node IDs\nvar ->{cat, quant} \ncat -> {nomi, ord}\nquant -> {disc, cont}\n}","config":{"engine":"dot","options":null}},"evals":[],"jsHooks":[]}</script>
+<!-- htmlwidget-sizing-policy-base64 PHNjcmlwdCB0eXBlPSJhcHBsaWNhdGlvbi9odG1sd2lkZ2V0LXNpemluZyIgZGF0YS1mb3I9Imh0bWx3aWRnZXQtOWU2ZjZhNGFjZmE4ZGY4OTIxZDYiPnsidmlld2VyIjp7IndpZHRoIjo0NTAsImhlaWdodCI6MzUwLCJwYWRkaW5nIjoxNSwiZmlsbCI6dHJ1ZX0sImJyb3dzZXIiOnsid2lkdGgiOjk2MCwiaGVpZ2h0Ijo1MDAsInBhZGRpbmciOjQwLCJmaWxsIjpmYWxzZX19PC9zY3JpcHQ+ -->
+</body>
+</html>

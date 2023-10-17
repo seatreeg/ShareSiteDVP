@@ -1,0 +1,57 @@
+---
+title: "PLANDOCDAY5"
+---
+
+## DAY5
+
+------------------------------------------------------------------------
+
+Random Variables: 50 minutes
+
+**Objectives:**
+
+> Students can identify what a random variable is and how they work practically to produce outputs
+>
+> Students understand the purpose and theory behind simulation
+>
+> Students know that simulations can produce partially off results
+>
+> Students understand that a an infinitely run simulation will produce the underlying probability distribution
+
+**Concepts:**
+
+> Random Process #concern on teaching
+>
+> Random Variable (RV)
+>
+> Probability as logic statement
+>
+> simulation
+>
+> long run probability distribution
+
+**Intuition Tools:**
+
+> RVs as machine that makes random numbers
+>
+> Probability as conditional colors
+
+**Lesson Material:**
+
+As usual students will be presented with a handout alongside the vocab they will be shown
+
+After going over the definitions for each...
+
+RANDOM VARIABLE: A quantity that can be assigned a variable based on probability. Usually denoted by capital letters rather than lower case ones.
+
+SIMULATION: Drawing samples using a computer to mimic a real process.
+
+...We will note that simulations produce imperfect results compared to our known distributions, and to demonstrate that, I will run a sim with a small sample size. Then I will increase the sample size and show that it approaches the real distribution over time.
+
+As an example in lecture, I will take a probability distribution with easy to count discrete points, and calculate the probability that our random variable X is between A and B. To do this, I will graph all points between A and B, and overlay them on the probability distribution. I will then reference the conditional probability equation, and begin counting the dots with mixed colors (Z union Y) divided by the total number of dots in the whole distribution (Z). Using that method, I will then have the probability that our RV X is between A and B, which could also be done by counting the numbers in between.
+
+(I will also reference that you can count the amount of dots less than B minus the amount of dots less than A)
+
+**Assessment:**
+
+Students will each be given a unique dot plot of values, and asked to calculate the probability that a RV is between two points. They will be asked to show their work visually. After doing so, groups will rotate and view the work and answers of another group, and write comments on how they think it went and if they concur.

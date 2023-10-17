@@ -1,0 +1,207 @@
+---
+title: "COURSE SCHEDULE"
+---
+
+\>\>\>"DAY"1
+
+Section C-S, 25 min \~ LECTURE
+
+-   syllabus
+
+Section P-1 25min \[Handout PRE A\]
+
+-   Categorical vs Quantitative Variables
+
+-   Classes
+
+-   Histograms/Relative Frequency Histograms
+
+-   Probability Distributions
+
+-   Shape
+
+\>\>\>"DAY" 2
+
+Section C-1 50min \[HANDOUT CAR\]
+
+-   venn diagrams + set symbols
+
+-   set symbols as logic+"if"
+
+-   independent probability
+
+-   conditional probability
+
+-   "At least once" problem\\
+
+\>\>\>"DAY"3
+
+Section P-1 25min \[HANDOUT A\]
+
+-   populaiton
+
+-   sample
+
+-   observational unit
+
+-   variable
+
+-   observational study
+
+-   experiment
+
+section P-1 25 min \~ACTIVITY
+
+-   vocab match (group or lecture)
+
+\>\>\>"DAY"4
+
+Section P-2 25min \[HANDOUT B\]
+
+-   Relative frequency histograms
+
+-   probability distributions
+
+-   shape
+
+-   center
+
+-   variability/stdev
+
+-   outliers
+
+Section P-1 \~ ACTIVITY
+
+-   vocab match (group or lecture)
+
+\>\>\>"DAY"5
+
+Section P-2 \[HANDOUT C\]
+
+-   Random Process
+
+-   Random Variable
+
+-   Probability as IF statement
+
+-   Simulation
+
+Section P-2 \~ EXAMPLE LECTURE
+
+-   Lecture example, probability distributions as colors (no p value)
+
+\>\>\>"DAY"6
+
+Section 1-1/2 25min \[HANDOUT D+E\]
+
+-   reiterate populaiton and sample
+
+-   reiterate data types
+
+-   the block {\[proportion parameter,sample statistic\]\*\[Quant mean,Cat proportion\]}
+
+-   Null distribution
+
+-   alternative space
+
+-   "significance" (how weird/percent match)
+
+-   hypothesis symbols format
+
+Section 1-1/2 25min \~ EXAMPLE LECTURE
+
+-   P value as two distinct sets being overlayed (conditional probability with colors)
+
+-   P values as overlap percent match
+
+-   Dolphin-like example ##check the name on this
+
+\>\>\>"DAY"7
+
+Section 1-1/2 25min \~ EXAMPLE LECTURE
+
+-   Adding up averages of dice with different sample size
+
+-   sampling distribution
+
+-   CLT (the graph goes to bell shape)(brief)
+
+-   Theory based and sim
+
+-   P value with distance and variance (overlap with colors)
+
+Section 1-3/4 25min \[HANDOUT F\]
+
+-   The block, now with population and sample variance
+
+-   sampling distribution
+
+-   variance
+
+-   stdev
+
+-   normal distribution/T distribution
+
+-   standard statistic (number of deviations image) (mention Z and T)
+
+-   skew
+
+-   recipe for low p (colors, charts, 4 cases hi/lo var+distance)
+
+\>\>\>"DAY" 8
+
+section 1-5 50min \~ ACTIVITY
+
+-   reiterate the former difficult topics with activity
+
+-   activity
+
+    -   simulation approach overlap color
+
+    -   theory approach overlap colors
+
+\>\>\>"DAY" 9
+
+Section 2-1 (HANDOUT G)
+
+-   generalizability
+
+-   convenient sampling
+
+-   simple random sampling
+
+-   other sampling forms (brief)
+
+Section 2-1 \~ ACTIVITY
+
+-   describe the sampling
+
+-   state the problem
+
+-   state a solution
+
+\>\>\>"DAY" 10
+
+Section 2-2/3 25min (HANDOUT H)
+
+-   reiterate skew
+
+-   bias
+
+-   theory based validity conditons
+
+-   z stat vs t stat
+
+-   tierbox {type 1 error, type 2 error, correct reject, correct fail}
+
+-   formula decomposition
+
+    -   significance level alpha
+
+    -   p standard 1-a
+
+    -   beta
+
+    -   power 1-beta
+
+Section 2-2/3 25min \~ ACTIVITY

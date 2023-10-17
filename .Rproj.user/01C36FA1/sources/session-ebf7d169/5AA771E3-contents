@@ -1,0 +1,109 @@
+---
+title: "HandoutDE"
+---
+
++------------------+--------------------------+-----------------------+
+| Col1             | Sample                   | Population Parameters |
+|                  |                          |                       |
+|                  | Statistics               | (greek letters)       |
+|                  |                          |                       |
+|                  | (modified latin letters) |                       |
++==================+==========================+=======================+
+| Proportion/      | $\hat{p}$                | $\pi$                 |
+|                  |                          |                       |
+| Categorical      |                          |                       |
+|                  |                          |                       |
+| (Start with "p") |                          |                       |
++------------------+--------------------------+-----------------------+
+| Mean/            | $\bar{x}$                | $\mu$                 |
+|                  |                          |                       |
+| Quantitative     |                          |                       |
++------------------+--------------------------+-----------------------+
+| Variance         | $s^{2}$                  | $\sigma^{2}$          |
++------------------+--------------------------+-----------------------+
+
+NUL DISTRIBUTION: probability distribution assuming the null hypothesis is true.
+
+ALTERNATIVE SPACE: this is a term I use to describe the area you are questioning for the alternative hypothesis.
+
+PVALUE: Proportion of successive experiments resulting in an outcome assuming the null is true
+
+**NOTE: the P Value and P Hat Value are completely different variables**
+
+Hypothesis symbols:
+
+$null= H_{0}$
+
+$alternative= H_{a}$
+
+Let "k" be the null value (the mean of the null distribution)
+
+Testing for difference of means
+
+$$
+null.hypotheis -> H_{0}: \mu=k
+$$
+
+$$
+alternative.hypotheis -> H_{a}: \mu \neq k
+$$
+
+Testing if mean specificially greater than
+
+$$
+null.hypotheis -> H_{0}: \mu \leq k
+$$
+
+$$
+alternative.hypotheis -> H_{a}: \mu > k
+$$
+
+Testing if mean specifically less than
+
+$$
+null.hypotheis -> H_{0}: \mu \geq k
+$$
+
+$$
+alternative.hypotheis -> H_{a}: \mu < k
+$$
+
+Let "k" be the null value (the proportion of the null distribution)
+
+Testing for difference of proportion
+
+$$
+null.hypotheis -> H_{0}: \hat{p} =k
+$$
+
+$$
+alternative.hypotheis -> H_{a}: \hat{p} \neq k
+$$
+
+Testing if specificially greater than
+
+$$
+null.hypotheis -> H_{0}: \hat{p} \leq k
+$$
+
+$$
+alternative.hypotheis -> H_{a}: \hat{p} > k
+$$
+
+Testing if specifically less than
+
+$$
+null.hypotheis -> H_{0}: \hat{p} \geq k
+$$
+
+$$
+alternative.hypotheis -> H_{a}: \hat{p} < k
+$$
+
+#the other lesson used an equal sign, but I think this makes sense and the i have seen it on the internet. I am unsure which is correct
+
+P value as conditional probability
+
+$$
+P.Value=\frac{AlternativeSpace \cap H_{0}}{H_{0}}
+$$

@@ -1,0 +1,43 @@
+---
+title: "HandoutF"
+---
+
+SAMPLING DISTRIBUTION: a distribution of a statistic obtained from a large number of samples pulled from a population. In other words, the distribution of the means. (in this context)
+
+CENTRAL LIMIT THEOREM: in many situations, for independent and identically distributed random samples, the distribution of the sample means approximates the normal distribution. In other words, the plot of the means often becomes normal.
+
+STANDARDIZED STATISTIC=A value which represents how many standard deviations an input value is from the mean of the null distribution.
+
+With this statistic, we have two options:
+
+1\) we can use our standardized statistic on a Z table to calculate the P value
+
+This is direct, just using a table
+
+2\) we can find the critical value for our significance level and see if our standardized statistic is beyond that.
+
+Our critical value depends on two things, the standard of significance we desire, and if we are interested in a "greater", "less than" ,or "not equal to" hypothesis.
+
+CRITICAL VALUE: Point on distribution, in standard deviations, where standardized statistics beyond that value are considered significant.
+
+This process shouldn't be applied to every situation, as there are some validity conditions:
+
+-   Large enough sample size (subjective, but in our course 10 failures and 10 successes or 20 quantitative samples is enough)
+
+-   Distribution must not be skewed or in general non-bell shaped
+
+-   If the variable is not a proportion and is instead a mean, and population variance is not known, a t statistic has to be used instead of a z statistic (in next lesson)
+
+Simulation ALWAYS works, however. #review this
+
+$$
+Z=\frac{x-\mu}{\sigma}
+$$
+
+Recipe for low p Values
+
+-   As variation decreases, p value decreases
+
+-   As the difference between the null mean and the alternative mean increase, the p value decreases .
+
+![](/z%20table.jpg)
