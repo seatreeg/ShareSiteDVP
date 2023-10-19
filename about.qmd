@@ -2,8 +2,6 @@
 title: "About"
 ---
 
-About this site
+About this site.
 
-```{r}
-1 + 1
-```
+This is my first site attempt, there are many things wrong, but it is still much better than I had anticipated.

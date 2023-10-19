@@ -2,7 +2,7 @@
 title: "COURSE SCHEDULE"
 ---
 
-NOTE: Assessment are designed so that they can be performed in class or at home with minor adjustments. The homework materials will be similar to the assessments and activities given, but with different values.
+NOTE: "DAY"s are not literal days, just 50 minute sections which can be adjusted based on student responses. The pacing *seems* appropriate, but I am welcome to be wrong on that, and flexible on how much review will be done for each section.
 
 \>\>\>["DAY"1](PLANDOCDAY1.qmd)
 
@@ -108,7 +108,7 @@ Activity: Students calculate probability by overlay method.
 
 Section 1-1/2 25min [HANDOUT D+E](HandoutDE.qmd)
 
--   reiterate populaiton and sample
+-   reiterate population and sample
 
 -   reiterate data types
 
@@ -226,4 +226,4 @@ Section 2-2/3 25min \~ ACTIVITY
 
 -   Predict the relative power and P from statistics
 
--   Precict the relative power and P from visual charts alone
+-   Predict the relative power and P from visual charts alone

@@ -1,5 +1,5 @@
 ---
-title: "syllabuslp"
+title: "syllabus"
 ---
 
 INSTRUCTOR: Carson Trego, carson.trego\@huslers.unl.edu
@@ -40,7 +40,7 @@ Homework/participation: 30%
 
 HOMEWORK:
 
-To avoid homework from causing any stressful cramming and loss sleep, homeworks will be cut into small pieces that are assigned and completed for each section completed. This means that you may have 1 or more homeworks assigned per week, but they will be very short, and wil not be due until the necessary information is taught in class.
+To avoid homework from causing any stressful cramming and loss sleep, homework will be cut into small pieces that are assigned and completed for each section completed. This means that you may have more than 1 homework items assigned per week, but they will be very short, and will not be due until the necessary information is taught in class.
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
@@ -93,3 +93,37 @@ PHOTO POLICY
 Students often take photos of the board to save time on notes. These notes will be provided on the canvas website, and any relevant board information will be shared as well. So photos should not be required.
 
 Please do not take pictures in class without permission prior, as many students prefer not to be recorded. If you would like a copy of any information in class, please let me know!
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+SERVICES FOR STUDENTS WITH DISABILITIES
+
+The university provides accommodations for disabilities registered with the Services for Students with Disabilities (SSD). If you are registered with the SSD, please schedule a meeting with me as soon as possible to discuss and plan accommodations.
+
+If you have a disability and are not registered and are concerned about a disability, you can contact the SSD office to discuss accommodation plans.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+ACE OUTCOME 3 (obtained word for word, have questions on this)
+
+"Use mathematical, computational, statistical, or formal reasoning (including reasoning based on princi- ples of logic) to solve problems, draw inferences, and determine reasonableness. The reinforced skills for STAT 218 are writing and critical thinking. STAT 218 will provide the student opportunities to achieve this learning outcome through readings, quizzes, and in-class activities. These assignments (together with exams) will be used by the instructor to assess achievement of the outcome. The final exam will be used by the Department of Statistics to carry out an overall assessment of STAT 218 and the course's effectiveness at assisting students in achieving Outcome 3"
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+DIVERSITY AND INCLUSION
+
+The University of Nebraska-Lincoln does not discriminate on the basis of race, ethnicity, color, national origin, sex (including pregnancy), religion, age, disability, sexual orientation, gender identity, genetic information, veteran status, marital status, and/or political affiliation.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+SUPPORT SERVICES (obtained word for word, have questions on this)
+
+"You can schedule free appointments for individual academic coaching with First-Year Experience and Transition Program staff through MyPLAN. You can also take advantage of study stops--which provide individual and group study with learning consultants in a variety of disciplines--and free group work- shops on topics such as time management, goal setting, test preparation, and reading strategies. See success.unl.edu for schedules and more information."
+
+COUNSELING AND PSYCHOLOGICAL SERVICES
+
+"UNL offers a variety of options to students to aid them in dealing with stress and adversity. Counseling and Psychological & Services (CAPS) is a multidisciplinary team of psychologists and counselors that works collaboratively with Nebraska students to help them explore their feelings and thoughts and learn helpful ways to improve their mental, psychological and emotional well-being when issues arise."
+
+CAPS can be reached by calling 402-472-7450.
+
+"Big Red Resilience & Well-Being (BRRWB) provides one-on-one well-being coaching to any student who wants to enhance their well-being. Trained well-being coaches help students create and be grateful for positive experiences, practice resilience and self-compassion, and find support as they need it. BRRWB can be reached by calling 402-472-8770"

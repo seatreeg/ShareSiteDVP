@@ -122,7 +122,7 @@ plot(numdf$inp, numdf$yy,ylab="power",xlab="effect size", main="power as effect 
 
 **Assessment**
 
-ERRORS: Students will be given an example of an experiment, a conclusion, and the truth, and they will be asked to put the example in one of 4 boxes on the type of error/correct conclusion chart.
+ERRORS: Students will be given an example of an experiment, a conclusion, and the truth, and they will be asked to put the example in one of 4 boxes on the type of error/correct conclusion chart. DELIVERY: IN CLASS PAPER WHICH CAN BE TAKEN HOME AND RETURNED THE FOLLOWING LECTURE. STAKES: MEDIUM HOMEWORK POINTS
 
 P AND POWER: Students will be given 4 variables {meanx-nullmean common variance, significance level, sample size}. The experiment will suggest one set up with numerical values where all values are held constant except one (so one experiment will have a diff=10, var=1,a=0.05, and n=10, while the other has diff=10, var=1,a=0.05, and n=20, and students will have to chose the one with the higher power level.
 
@@ -132,7 +132,7 @@ Next, I will give them two distributions on the same chart alongside another two
 
 This will hopefully give them a conceptual understanding of the p value and power so that they can predict power levels and p value without needing all of the data.
 
-An example of some charts that will be given to them for the minimal information portion can be found below (circumstance b has a higher power and lower p value)
+An example of some charts that will be given to them for the minimal information portion can be found below (circumstance b has a higher power and lower p value) DELIVERY: IN CLASS PAPER WHICH CAN BE TAKEN HOME AND RETURNED THE FOLLOWING LECTURE. STAKES: MEDIUM HOMEWORK POINTS
 
 ```{r}
 library(ggplot2)

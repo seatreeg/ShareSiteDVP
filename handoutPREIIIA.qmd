@@ -8,7 +8,6 @@ DATA TYPES
 library(DiagrammeR)
 
 
-
 DiagrammeR::grViz("digraph {
 
 graph [layout = dot, rankdir = LR]
@@ -49,6 +48,8 @@ CLASS: groups of values
 HISTOGRAM: A chart displaying the amount of elements in each class
 
 ```{r}
+
+
 library(ggplot2)
 df = data.frame(
   amt = c(1,2, 12,13,14,15,16,25,26,27)
@@ -69,6 +70,8 @@ ggplot(df, aes(x=binz))+
 RELATIVE FREQUENCY HISTOGRAM: like a normal histogram, but it shows the amount of said class relative to the total, rather than just the amount of said class. NOTE: the scale ranges from 0-100%, AKA, 0-1
 
 ```{r}
+
+
 library(ggplot2)
 df = data.frame(
   amt = c(1,2, 12,13,14,15,16,25,26,27)
@@ -89,6 +92,8 @@ ggplot(df, aes(x=binz))+
 PROBABILITY DISTRIBUTION: Very similar to the relative frequency histogram, except the percentages on the y-axis can be thought of as probabilities. You can add these, so in the below example, if you were to put all of the numbers in a bag and select one at random, there is a 20% chance of getting a number between 1 and 10, and a 70% chance of getting a number between 1 and 20.
 
 ```{r}
+
+
 library(ggplot2)
 df = data.frame(
   amt = c(1,2, 12,13,14,15,16,25,26,27)
@@ -111,6 +116,9 @@ DISCRETE DISTRIBUTION: A probability distribution with a finite number of outcom
 The distribution of a six sided die can be seen below:
 
 ```{r}
+
+
+
 library(ggplot2)
 df = data.frame(
   amt = c(1,2,3,4,5,6)
@@ -133,6 +141,8 @@ IMPORTANT CONCEPT: the probability of rolling a value is the area that that the 
 CONTINUOUS DISTRIBUTION: A probability distribution with an infinite number of outcomes between two different points. (NOTE: there are an infinite number of real numbers between 0 and 1.)
 
 ```{r}
+
+
 library(ggplot2)
 
 listval <- data.frame(vals= seq(0,10,length.out=1000000))

@@ -26,6 +26,10 @@ Just for safety, I will check here to make sure everyone understands mean, media
 
 Activity: Students will be assigned a starter activity (at home)so I know some basic info about their perception of the class, concerns, and how to address them.
 
+**Assessment:**
+
+n/a
+
 ------------------------------------------------------------------------
 
 **\-\-\--\>First Lecture: 25 minutes**
@@ -118,8 +122,8 @@ Here I plan to use the ray gun example on how to remember which skew it is. (the
 
 **Assessment:**
 
-DATATYPES: To assess the students knowledge of datatypes, they will be given a list of variables and told to arrange them into certain boxes by their datatype. For example, if the variable "time required to finish a test" is given, it will be put in the variable\>quantitative\> continuous
+DATATYPES: To assess the students knowledge of datatypes, they will be given a list of variables and told to arrange them into certain boxes by their datatype. For example, if the variable "time required to finish a test" is given, it will be put in the variable\>quantitative\> continuous. DELIVERY: IN CLASS PAPER WHICH CAN BE TAKEN HOME AND RETURNED THE FOLLOWING LECTURE. STAKES: MEDIUM HOMEWORK POINTS
 
-DISTRIBUTIONS AND CHARTS: Students will be given a list of numbers, and a desired class size, and from that they will be asked to count the classes, make a histogram, then a relative frequency histogram, then a discrete probability distribution by hand. Finally, they will be asked to use the chart determine the probability of getting a number in one of two of the classes, which can be added. #verify accuracy of this last part\\
+DISTRIBUTIONS AND CHARTS: Students will be given a list of numbers, and a desired class size, and from that they will be asked to count the classes, make a histogram, then a relative frequency histogram, then a discrete probability distribution by hand. Finally, they will be asked to use the chart determine the probability of getting a number in one of two of the classes, which can be added. #verify accuracy of this last part# DELIVERY: IN CLASS PAPER WHICH CAN BE TAKEN HOME AND RETURNED THE FOLLOWING LECTURE. STAKES: MEDIUM HOMEWORK POINTS
 
-SHAPE: Students will be given two exercises to asses the knowledge of shape. The first will be to observe a few distributions and declare their shape, and the next part they will be given a mean, median, and mode (then later just two) and asked to determine the skew of a distribution.
+SHAPE: Students will be given two exercises to asses the knowledge of shape. The first will be to observe a few distributions and declare their shape, and the next part they will be given a mean, median, and mode (then later just two) and asked to determine the skew of a distribution. DELIVERY: IN CLASS PAPER WHICH CAN BE TAKEN HOME AND RETURNED THE FOLLOWING LECTURE. STAKES: MEDIUM HOMEWORK POINTS

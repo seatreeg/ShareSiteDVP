@@ -1,6 +1,18 @@
 ---
-title: "MethodsAndGoals"
+title: "Reflection"
 ---
+
+Self Reflection:
+
+After typing the below text, I have decided to put the self reflection at the top.
+
+I feel like I have added a fair amount of information on this site, and I am happy that I was able to get some of it working (except the github hosting aspect). I like a lot of whats on here, but I still see the project as far from finished, even when not including the upcoming weeks.
+
+I would like to add more detail to the assessments, to the point where they are all independent files like the handouts. I would also like to improve the aesthetics of it all, as a lot of the formatting fell flat (for example, the code chunks are NOT supposed to be visible as that is just distracting.
+
+Overall, while I am proud of the information on here and the fact that this is my first quarto site, I still see many avenues for improvement, and I plan to attend office hours to improve some of the more technical issues I have faced.
+
+------------------------------------------------------------------------
 
 The following entry is a combination of my reflection and methods for the class. I think about class design a lot so the methods I would like to employ are deeply related to the ideas on how the class should be structured.
 
@@ -36,7 +48,7 @@ Every class has core ideas, so I have decided to plan the class around a few cen
 
 -   clear expectation
 
-    -   While I would love students to be so interested in the course that they start watching 3blue1brown videos and learn things that I haven't even mentioned, this does not feel realistic. Students also are likely going through some of the worst years of their lives, and I would like to avoid making that worse by having stochastic expectations. (I will ask some challenge questions, but they will be graded as more of a bonus and gauge of engagement and ability rather than a requirement)
+    -   While I would love students to be so interested in the course that they start watching 3blue1brown videos and learn things that I haven't even mentioned, this does not feel realistic. My goal is for students to know what concepts to understand and how to train them. I will ask some challenge questions, but they will be graded as more of a bonus and gauge of engagement and ability rather than a requirement.
 
 With exams, there are a few methods I am interested to investigate
 
@@ -66,7 +78,7 @@ The class will feature many activities based on participation, with the followin
 
 -   Activities give students an opportunity to question ideas layed out in class (it is near impossible not to miss something when teaching, so if I get successfully (and politely) called out on something during an activity, I will consider it to be a teaching win.
 
--   Activities are not just for completing work, Ideally, they will be structured so that students feel more comfortable expressing ideas openly and to each other. if student are too rigid, they may find engaging in class to be too nerve racking as they feel judged by strangers. In practice, I will not yell at them for discussing topics that aren't immediately math related (within reason). (If extra time is available, there also are "spells" to spur discussion. USE AT YOUR OWN RISK: but I have had teachers 3 times now mention "water is wet" issue in class and it immediately got a whole class debate going. I once talked about the event and accidentally unleashed the spell on the class i was in. I apologized to my teacher, and thankfully, they were understanding. If students seem disengaged or uncomfortable, and we have a few extra minutes at the end of class, I may consider stating something like that)
+-   Activities are not just for completing work, Ideally, they will be structured so that students feel more comfortable expressing ideas openly and to each other. if student are too rigid, they may find engaging in class to be too nerve racking as they feel judged by strangers. In practice, I will not get at them for discussing topics that aren't immediately math related (within reason).
 
 There will also be demonstrations, but these demonstrations will be used as a means to deliver information on methods that are particularly confusing, or display activities that would take a large amount of classroom
 
@@ -78,7 +90,7 @@ Homework will have the following ideas in its design:
 
 -   Homework should straight forward and avoid situations where these student has no idea how to even look for an answer. All homework questions will related directly to on canvas materials. If the student gives themselves the proper time. the learning process should be calm.
 
--   Most of the homework questions will be nigh-objective in correct answers, but to encourage free thinking and egagement there will always be a creative question they are to answer, which is graded more on submission. This is to encourage them to take a risk and attempt at reorganizing what they learned, without being penalized for not copying definitions exactly. If they make flawed assumptions, they will be notified about it, but it will not harm their grade.
+-   Most of the homework questions will be nigh-objective in correct answers, but to encourage free thinking and engagement there will always be a creative question they are to answer, which is graded more on submission. This is to encourage them to take a risk and attempt at reorganizing what they learned, without being penalized for not copying definitions exactly. If they make flawed assumptions, they will be notified about it, but it will not harm their grade.
 
 This plan is already feeling very optimistic, but I have a few even more optimistic stretch goals:
 

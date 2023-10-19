@@ -6,7 +6,7 @@ title: "LESSONPLAN"
 
 [PreSemesterToDo](PreSemesterToDo.qmd)
 
-[MethodsAndGoals](MethodsAndGoals.qmd)
+[Reflection](MethodsAndGoals.qmd)
 
 [Syllabus](syllabuslp.qmd)
 

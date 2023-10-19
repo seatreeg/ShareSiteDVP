@@ -82,9 +82,9 @@ plot(x,y,
 
 One way to think about this is to pretend that the distribution is being stomped on by a big boot, and the the higher the variance, the heavier the boot, the flatter and more spread it ends up
 
-**ASSESSMENT:**
+**ASSESSMENT ACTIVITY:**
 
-A single activity will be given to asses the concepts above. Students will be paired into groups with large writing devices. They will then be given a two large dot histogram plots on the screen and asked to identify the following
+CT, OUTLIERS, AND VARIANCE: A single activity will be given to asses the concepts above. Students will be paired into groups with large writing devices. They will then be given a two large dot histogram plots on the screen and asked to identify the following
 
 -   measures of central tendency (all 3)
 
@@ -93,3 +93,5 @@ A single activity will be given to asses the concepts above. Students will be pa
 -   state which distribution has the higher variance
 
 -   why, in words, you chose the distribution you chose.
+
+    DELIVERY: IN CLASS PARTICIPATION. STAKES: MEDIUM PARTICIPATION POINTS.

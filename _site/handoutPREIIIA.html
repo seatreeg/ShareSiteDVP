@@ -191,8 +191,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb3-20"><a href="#cb3-20" aria-hidden="true" tabindex="-1"></a><span class="st">quant -&gt; {disc, cont}</span></span>
 <span id="cb3-21"><a href="#cb3-21" aria-hidden="true" tabindex="-1"></a><span class="st">}"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output-display">
-<div class="grViz html-widget html-fill-item-overflow-hidden html-fill-item" id="htmlwidget-7be76498a2f3e4e29cac" style="width:100%;height:464px;"></div>
-<script type="application/json" data-for="htmlwidget-7be76498a2f3e4e29cac">{"x":{"diagram":"digraph {\n\ngraph [layout = dot, rankdir = LR]\n\n\n# define the global styles of the nodes. We can override these in box if we wish\nnode [shape = rectangle, style = filled, fillcolor = Linen]\n\nvar  [label = \"variable\"]\ncat [label = \"categorical\"]\nquant [label =  \"quantitative\"]\nord [label = \"ordinal\"]\nnomi [label= \"nominal\"]\ndisc [label= \"discrete\"]\ncont [label= \"continuous\"]\n\n# edge definitions with the node IDs\nvar ->{cat, quant} \ncat -> {nomi, ord}\nquant -> {disc, cont}\n}","config":{"engine":"dot","options":null}},"evals":[],"jsHooks":[]}</script>
+<div class="grViz html-widget html-fill-item-overflow-hidden html-fill-item" id="htmlwidget-a394c49820a8c146fb6c" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-a394c49820a8c146fb6c">{"x":{"diagram":"digraph {\n\ngraph [layout = dot, rankdir = LR]\n\n\n# define the global styles of the nodes. We can override these in box if we wish\nnode [shape = rectangle, style = filled, fillcolor = Linen]\n\nvar  [label = \"variable\"]\ncat [label = \"categorical\"]\nquant [label =  \"quantitative\"]\nord [label = \"ordinal\"]\nnomi [label= \"nominal\"]\ndisc [label= \"discrete\"]\ncont [label= \"continuous\"]\n\n# edge definitions with the node IDs\nvar ->{cat, quant} \ncat -> {nomi, ord}\nquant -> {disc, cont}\n}","config":{"engine":"dot","options":null}},"evals":[],"jsHooks":[]}</script>
 </div>
 </div>
 <p>CLASS: groups of values</p>

@@ -54,8 +54,8 @@ As an example in lecture, I will take a probability distribution with easy to co
 
 **Assessment:**
 
-Students will each be given a unique dot plot of values, and asked to calculate the probability that a RV is between two points. They will be asked to show their work visually. After doing so, groups will rotate and view the work and answers of another group, and write comments on how they think it went and if they concur.
+RV PROBABILITY: Students will each be given a unique dot plot of values, and asked to calculate the probability that a RV is between two points. They will be asked to show their work visually. After doing so, groups will rotate and view the work and answers of another group, and write comments on how they think it went and if they concur. DELIVERY: IN CLASS PARTICIPATION. STAKES: MEDIUM PARTICIPATION POINTS.
 
 **Assessment Activity:**
 
-Students will be given a similar block distribution as I had used in the demonstration in class. They will be asked to use color overlays to calculate this. and then write out how the method relates to conditional probability of sets.
+RV PROBABILITY:Students will be given a similar block distribution as I had used in the demonstration in class. They will be asked to use color overlays to calculate this. and then write out how the method relates to conditional probability of sets. DELIVERY: IN CLASS PAPER WHICH CAN BE TAKEN HOME AND RETURNED THE FOLLOWING LECTURE. STAKES: MEDIUM HOMEWORK POINTS

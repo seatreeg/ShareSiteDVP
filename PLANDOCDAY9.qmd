@@ -34,7 +34,7 @@ Sampling: 50 minutes
 
 **Intuition Tools:**
 
-> n/a
+> -   
 
 **Lesson Material:**
 
@@ -60,9 +60,9 @@ OTHER FORMS OF SAMPLING: These will not be mentioned in this session, but just k
 
 SAMPLING FRAME: list of all individuals in a population.
 
-**Assessment:**
+**Activity Assessment:**
 
-As with the former vocab activities, students will put in groups and assigned a board to write answers on in response to a prompt given on the projector. The prompt will describe an observational study, and the the students will have to answer the following questions:
+VOCAB AND SAMPLING TYPES: As with the former vocab activities, students will put in groups and assigned a board to write answers on in response to a prompt given on the projector. The prompt will describe an observational study, and the the students will have to answer the following questions:
 
 -   What is the population?
 
@@ -80,4 +80,4 @@ As with the former vocab activities, students will put in groups and assigned a 
 
 -   if so , how can this bias be improved?
 
-Most of the questions will feature fairly obvious forms of bad convenience sampling, but one of the questions will be intentionally tricky. The sample will be for a medical trial which involves getting willing participants to be subjected to an invasive observation. Patients were found from areas all across the globe, with no geographical clustering. The thoroughness would lead you to think that it is not convenient sampling, but they still obtained willing participants, which has the potential for bias. While this is convenient sampling, it is hard to argue that it should be improved because the way to fix this would be to do the procedure involuntarily, which would be ethically wrong. (I am trying to focus on showing that convenient sampling is not always "bad" as I have heard some students describe it at such)
+Most of the questions will feature fairly obvious forms of bad convenience sampling, but one of the questions will be intentionally tricky. The sample will be for a medical trial which involves getting willing participants to be subjected to an invasive observation. Patients were found from areas all across the globe, with no geographical clustering. The thoroughness would lead you to think that it is not convenient sampling, but they still obtained willing participants, which has the potential for bias. While this is convenient sampling, it is hard to argue that it should be improved because the way to fix this would be to do the procedure involuntarily, which would be ethically wrong. (I am trying to focus on showing that convenient sampling is not always "bad" as I have heard some students describe it at such). DELIVERY: IN CLASS PARTICIPATION. STAKES: MEDIUM PARTICIPATION POINTS.

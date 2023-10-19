@@ -114,8 +114,8 @@ STANDARDIZED SIGNIFICANCE: Students will be given 10 circumstances, and only 3 w
 
 the sample sizes will be given, and the distribution will appear visually on the right. The information will either be proportional or mean based, and the population deviation may or may not be given. Using that information, students will have to select their answers.
 
-This will test their ability not only to calculate the standardized statistic, but also when to use that approach.
+This will test their ability not only to calculate the standardized statistic, but also when to use that approach. DELIVERY: IN CLASS PAPER WHICH CAN BE TAKEN HOME AND RETURNED THE FOLLOWING LECTURE. STAKES: MEDIUM HOMEWORK POINTS
 
 RRECIPE FOR LOW P VALUE: Students will be given 4 circumstances {variance low; x - mean = low \|\| variance high, x - mean = low \|\| variance low, x - mean = high, variance high, x - mean = high} and are asked to determine which circumstance would have the lowest p value.
 
-From the a standardized statistic formula, they should be able to find that \[variance low, x - mean = high\] has the lowest p value as it produces the highest standardized statistic.
+From the a standardized statistic formula, they should be able to find that \[variance low, x - mean = high\] has the lowest p value as it produces the highest standardized statistic. DELIVERY: IN CLASS PAPER WHICH CAN BE TAKEN HOME AND RETURNED THE FOLLOWING LECTURE. STAKES: MEDIUM HOMEWORK POINTS
