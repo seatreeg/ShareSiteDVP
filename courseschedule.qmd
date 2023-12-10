@@ -396,8 +396,6 @@ Section ?.? Statistical errors
 
 -   wrong design \[elaborate\]
 
--   idea not tested (try once vs long term safety)
-
 -   not generalizable
 
 -   flat output tools-\> always fail to reject ("done wrong")

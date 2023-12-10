@@ -14,10 +14,43 @@ For the final project, I have a few goals in mind
 
 -   Project reserve/checkpoints will be in place to keep work going and avoid overlapping topics.
 
-Some ideas so far
+Some ideas so far:
 
 List of (person-specific) questions: This one is straightforward, they are asked questions and told to work out the answers and submit them as a paper. Questions will be generated with r markdown with the answers, but will be reviewed personally. This is the simple easy option. Essentially the backup.
 
-Flaw investigation: students will be given a fake paper (or multiple) and be asked to find the flaws included and present on it as a critique.
+Flaw investigation: students will be given a fake paper and be asked to find the flaws included and present on it as a critique.
 
-Some Truths 1 Lie: after covering the many ways to analyze data and all of the misleading ways you can present that data, students will be assigned with finding data that is technically true misuesed to the point of dishonesty. Ideally they would collect this, but that could be dangerous (see also: my interview) and also just a lot of time that they may not have, so I was considering having some sort of location to gather data (like a sampling simulator for a bunch of different topics in R Shiny (some null some not, all randomly generated but need a request to be sent in that takes time), or ask them to find papers). Prior to the presentation, we would discuss the data fabrication incident that was covered in Alpha Seminar, and data fabrication in general. In the presentation, the students will need one piece of completely fabricated data (they will show this as a histogram or a collection of groups with error bars).
+Statistical Decision Making Challenge: This is something I considered for test reviews, but could also be a project. Students will be given a number of questions that relate to statistical decision making, and the answers will be part of some narrative consequence. I am considering having a presentation elaborating on their decisions. (some of the questions will be purely subjective(which wont have graded correct answers), others not) This is basically a list of questions but with interesting consequences and all story based problems that contribute to a single story.
+
+```{txt}
+[note: questions will not have the higher/lower variance issue, so the questions should all have a nigh-objective solution]
+
+Many problems will be based on being efficient. So you may be able to chose all of the premium options, but you will have limited time/money so not being efficient will harm your overall goals. So, for example, you may be given an option with a significant impact, like weight reducing panels, and a non significant fake modifcation, like an electrical turbocharger** (you dont have to know what these do, it will all be charts), and you could by both, but later on you wont have money for other modifications.  
+
+**this is a conmplicated car example that i will not use
+
+examples of questions they will encounter:
+
+
+-looking at multiple frequency (lump) charts (quant repsnonse), select a modification with the highest significant effect.
+
+-there are a list of premium and economy options, you have limited money but can look at the effect on groups (categorical response), spend your money as wisely as possible to get the greatest sum effect
+
+-[breaking the note rule] there will be two options and required threshold, the threshold is beyond the mean and they will have to chose between a highly variant or low variance option. The odds are less than 50% for both but the higher variance opition has a better chance
+
+-conditional probability decision making task using a conditional probability table
+
+-given information by two people, one with a statistical flaw and asked which advise to follow
+
+-asked to optimize an outcome with interaction with an interactive tool
+
+-given a statment with a glaring missing variable
+
+-asked to use CIs to reject buying somethig or not
+
+-asked to reduce CI in some way with certain options and constraints
+
+-use 99% CIs to predict the worst reasonable estimate and prepare for the worst while being cost efficient.
+```
+
+Some Truths 1 Lie: after covering the many ways to analyze data and all of the misleading ways you can present that data, students will be assigned with finding data that is technically true misused to the point of dishonesty. Ideally they would collect this, but that could be dangerous (see also: my interview) and also just a lot of time that they may not have, so I was considering having some sort of location to gather data (like a sampling simulator for a bunch of different topics in R Shiny (some null some not, all randomly generated but need a request to be sent in that takes time), or ask them to find papers). Prior to the presentation, we would discuss the data fabrication incident that was covered in Alpha Seminar, and data fabrication in general. In the presentation, the students will need one piece of completely fabricated data (they will show this as a histogram or a collection of groups with error bars).
