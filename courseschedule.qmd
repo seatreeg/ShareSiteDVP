@@ -424,11 +424,11 @@ chapter6.1/2 Comparing two means: quant response \[MAKE SINGULAR HANDOUT WITH PR
 
 -   Table of comparing means \[parameter, statistic\]\[proportion, mean\]
 
--   sim based apporach
+-   sim based approach
 
--   standardized statistric
+-   standardized statistic
 
--   Reject/FTR condtions
+-   Reject/FTR conditions
 
 -   Multiple means handout: how to
 
