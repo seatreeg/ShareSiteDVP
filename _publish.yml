@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 1ecd0b12-1f65-42d5-a17f-f2fbab424d48
+      url: 'https://seatreeg.quarto.pub/lessonplan'

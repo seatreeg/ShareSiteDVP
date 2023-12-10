@@ -1,0 +1,82 @@
+---
+title: "PLANDOCDAY12"
+---
+
+## DAY 12
+
+**Objectives:**
+
+Students can decompose and rewire the CI formula
+
+Students can calculate proportion confidence intervals with the theory based method
+
+**Concepts**
+
+Proportion intervals
+
+Z score
+
+MoE proportion
+
+Proportion SE
+
+Proportion CI Validity condiitons
+
+**Intuition Tools:**
+
+**Lesson Material:**
+
+Students will be given the following, they will be instructed to decompose the formula {i did this one in class when I taught, it seemed successfull}
+
+|            |                  |                      |
+|------------|------------------|----------------------|
+|            | Sample Statistic | Population Parameter |
+| Mean       | $\bar{x}$        | $\mu$                |
+| Proportion | $\hat{p}$        | $\pi$                |
+
+CI=Observered_Proportion $\pm$ Margin_Of_Error
+
+Observed_Proportion = $\hat{p}$ {if working with a proportion}{
+
+Margin_Of_Error = Multiplier\*Standard_Error
+
+Standard_Error = $\sqrt{\frac{\hat{p}(1-\hat{p}) }{n}}$ {If working with proportion}
+
+Multiplier=$Z_{\alpha/2}$ {if working with a proportion}
+
+$Z_{\alpha/2}$ = 1.96 {IF confidence level is 95%}
+
+VALDIDTIY CONDTIOINS
+
+At least 10 observational units in both categories (10 successes and 10 failures)
+
+**Assessment:**
+
+You sampled 100 UNL
+students, and 25 of them said that they like baseball. Estimate the population
+parameter for the proportion of UNL students who like baseball and write your
+results as a 95% confidence interval.
+
+Are the validity conditions met?
+
+You sampled 250 Nebraska
+residents and 210 of them said they like baseball. Estimate the population
+parameter for the proportion of Nebraska residents who like baseball and write
+your results as a 95% confidence interval.
+
+Are the validity conditions met?
+
+
+
+
+
+
+-   validity conditions
+
+-   general formula decomposition
+
+-   margin of error proportion
+
+-   z score revisited
+
+-   validity conditions (said again)

@@ -152,7 +152,7 @@ Section 1-3/4 25min [HANDOUT F](HandoutF.qmd)
 
 -   Adding up averages at different sample size
 
--   sampling distribution
+-   sampling distribution revisisted
 
 -   CLT (bell shape approach)
 
@@ -227,3 +227,237 @@ Section 2-2/3 25min \~ ACTIVITY
 -   Predict the relative power and P from statistics
 
 -   Predict the relative power and P from visual charts alone
+
+\>\>\>["DAY" 11](PLANDOCDAY11.qmd) 
+
+Section 3.1: confidence interval introduction
+
+-   confidence interval purpose
+
+-   confidence intervals meaning
+
+-   sampling distribution revisited again
+
+-   standard error revisited
+
+-   margin of error
+
+-   confidence level
+
+-   misconceptions about confidence intervals
+
+-   introduce flow chart (evaluate step by step)
+
+\>\>\>["DAY" 12](PLANDOCDAY12.qmd)
+
+Section 3.2: proportion interval
+
+-   validity conditions
+
+-   general formula decomposition
+
+-   margin of error proportion
+
+-   z score revisited
+
+-   validity conditions (said again)
+
+\>\>\>["DAY"13](PLANDOCDAY13.qmd) 
+
+Section 3.3: mean interval
+
+-   validity conditions
+
+-   general formula decomposition
+
+-   margin of error proportion
+
+-   st score revisited
+
+-   connections of both formulas
+
+-   validity conditions said again
+
+-   provide final flowchart
+
+\>\>\>["DAY" 14 + 15](PLANDOCDAY14Y15.qmd)
+
+Section 3.4: compiling confidence intervals, statistics in lumps
+
+-   reflect on normal distribution
+
+-   2SD
+
+-   effects by MOE, confidence level, variance, sample size on width
+
+-   Confidence intervals to compare to null/hypothesis test (2 lumps)
+
+-   Ultimate test(F), variance on variance 2+ lump (this makes sense to me)(this may wait for later or never)
+
+-   simulated non-parametric (i will not call it that)(i will check make sure my sim logic is correct)
+
+-   training wheels off, given multiple situations and respond to them freely
+
+-   purely visual p value test (sd inflection pt\*2)
+
+-   remark that all tests (i think) have been cat in quant out, and we are only in quadrant II (this quadrant system is a WIP, ignore)
+
+\>\>\> ["DAY" 16](PLANDOCDAY16.qmd)
+
+Section 5.1 \[will return to ch4\] categorical response
+
+-   finally begin quadrant 1
+
+-   previously response was quantitative and explanatory was categorical, now both are categorical
+
+-   conditional probability recap
+
+-   two way conditional probability table
+
+-   conditional proportions
+
+-   relative risk
+
+\>\>\>["DAY" 17](PLANDOCDAY16.qmd)
+
+Section 5.2 simulated comparison
+
+-   two proportions applet
+
+-   applet p value
+
+-   sim standard statistic
+
+-   confidence interval
+
+-   confidence interval hypothesis testing revisted
+
+\>\>\>["DAY" 18](PLANDOCDAY16.qmd)
+
+5.3 Theory based comparison
+
+-   Validity conditions
+
+-   New standard error
+
+-   SS=(ob-null)/sd/se \>\>\> brush up on why SD is divided by SE instead of n.
+
+-   Theory confidence interval
+
+-   Say validity conditions again
+
+\>\>\>["DAY" 19](PLANDOCDAY16.qmd) \[OPTIONAL-BUT WOULD REALLY LIKE TO COVER CHISQR\]
+
+5.? other measures of comparison CHECK BOOK FOIR THIS
+
+-   chi square test
+
+-   fishers exact test
+
+-   flowchart: when to use each in chapter 5
+
+-   update quadrant chart\
+
+\>\>\>["DAY" 20](PLANDOCDAY20.qmd) taking a break from the quadrants
+
+Section 4.1/2
+
+-   ultra reiterate explanatory and response (+why we use them instead of ind+dep)
+
+-   experiment vs observational
+
+-   confounding variables
+
+-   study diagram
+
+-   randomization and confounding effects
+
+-   cause and effect possible by randomization and experimental studies
+
+-   correlation isnt yeah
+
+-   blocking
+
+\>\>\>["DAY" 21](PLANDOCDAY21.qmd) \[OPTIONAL\]
+
+Section ?.? Statistical errors
+
+(which ones the split plot one)
+
+-   Interaction-\> interaction not accounted for
+
+-   missing variable
+
+-   the ol many separate tests
+
+-   pure random chance (one study)
+
+-   survivorship bias+what you read as a form of statistical sampling (reading from one soucre)
+
+-   wrong design \[elaborate\]
+
+-   idea not tested (try once vs long term safety)
+
+-   not generalizable
+
+-   flat output tools-\> always fail to reject ("done wrong")
+
+-   biased tools -\> always reject \[example, my e coli project\]\[camera that reports pure noise\]
+
+-   blocking?
+
+-   purely comparing averages, not even accounting for significance or just having a really low standard
+
+\>\>\>["DAY" 22](PLANDOCDAY22.qmd) \[OPTIONAL\]
+
+section ?.? Statistical error: Interaction
+
+-   Interaction as a concept
+
+-   Interaction plots
+
+-   Interaction in errors/conclusiions
+
+-   blocking?\
+
+\>\>\>["DAY" 23](PLANDOCDAY23.qmd) \[VERY IMPORTANT SECTION, MAKE SURE THIS HAPPENS\]
+
+chapter6.1/2 Comparing two means: quant response \[MAKE SINGULAR HANDOUT WITH PROPORTIONS\]
+
+-   Table of comparing means \[parameter, statistic\]\[proportion, mean\]
+
+-   sim based apporach
+
+-   standardized statistric
+
+-   Reject/FTR condtions
+
+-   Multiple means handout: how to
+
+\>\>\>["DAY" 24](PLANDOCDAY24.qmd)
+
+chapter 6.3 Theory based approach
+
+-   Theory based validity conditions
+
+-   Theory based SE
+
+-   T stat formula
+
+-   Theory based CI
+
+-   Reiterate Reject/FTR conditions
+
+-   Restate validity conitions
+
+\>\>\>PAIRED DATA
+
+\>\>\>LINEAR REGRESSION
+
+\>\> \[OPTIONAL IDEAS\]
+
+-   proposed Alternatives to p
+
+-   Introduction to data fabrication (show RNG article)
+
+\>\>\>"FINAL PROJECT"

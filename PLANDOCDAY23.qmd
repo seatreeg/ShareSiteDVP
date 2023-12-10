@@ -1,0 +1,79 @@
+---
+title: "PLANDOCDAY23"
+---
+
+## DAY 23
+
+**Objectives:**
+
+Students understand the relevance of comparing means
+
+Students can use the multiple means applet to make conclusions with the simulation based approach in practical examples
+
+Students understand that means alone are a bad means of comparison
+
+STUDENTS KNOW THE DIFFERENCE BETWEEN BOXPLOTS AND ERROR BARS
+
+Students know how 5 number summaries, mean, and variance are effected by outliers
+
+STUDENTS KNOW TO NOT JUST REMOVE OUTLIERS
+
+**Concepts:**
+
+two means: quant response
+
+5 number summary
+
+confidence intervals again
+
+outliers
+
+sim standard statistic
+
+**Intuition Tools:**
+
+Lets pick a box
+
+Simultaneous boxplot and error plot
+
+**Lesson Material:**
+
+We will start with the "Lets pick a box" example, where one die had a higher mean than the other, but turns out, they are actually the same dice, so they are the same.
+
+We will use this to start on comparing means, since just looking at which mean is higher is a bad strategy.
+
+We will then talk a bit about 5 number summaries {q1,q2,q3,min,max}, and uses of them.
+
+Show IQR, how its calculated, and box plots for five number summaries
+
+NOTE THAT BOX PLOTS AND ERROR BARS ARE DIFFERENT
+
+Finally, we will spend a fair amount of time working with the simulation
+
+GIVE STUDENTS AN ANNOTATED SCREENSHOT OF THE SIMULATION AND A FILE OF THE STEPS.
+
+We will then go over calculating the sim standard statistic
+
+$$
+\frac{(observedstat_{group1}-observedstat_{group1})-0}{simSD}
+$$
+
+$$
+\frac{observedStat-null Hypothesis Value}{SD/SE}
+$$
+
+**Assessment:**
+
+Students will be given the lightbulb question (submitted in class)
+
+Students will be asked why comparing means alone is not good strategy
+
+Students will be given two sets of data with the same median and mean, then given two sets with exaggerated outliers (evenly), then given sets with uneven exaggerated outliers and asked to see if the mean, median, or variance changed (this will be a table)
+
+Students will be given text files and be asked to evaluate their characteristics with the multiple means applets, they will then be asked to generate error bar plots.
+
+-With the same text data, they will be asked to make boxplots.
+
+-They will be asked to comment on the difference
+
+-they will be asked what to do with the null hypothesis given the data

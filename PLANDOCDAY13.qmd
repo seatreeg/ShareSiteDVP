@@ -1,0 +1,82 @@
+---
+title: "PLANDOCDAY13"
+---
+
+## DAY 13
+
+**Objectives:**
+
+Students can decompose and rewire the CI formula
+
+Students can calculate mean confidence intervals with the theory based method
+
+**Concepts**
+
+mean intervals
+
+t score
+
+MoE mean
+
+SE mean
+
+mean CI Validity condiitons
+
+**Intuition Tools:**
+
+**Lesson Material:**
+
+Students will be given the following, they will be instructed to decompose the formula {i did this one in class when I taught, it seemed successfull}
+
+|            |                  |                      |
+|------------|------------------|----------------------|
+|            | Sample Statistic | Population Parameter |
+| Mean       | $\bar{x}$        | $\mu$                |
+| Proportion | $\hat{p}$        | $\pi$                |
+| Variance   | $s^{2}$          | $\sigma^{2}$         |
+
+Proportion CI validity condtions:
+
+-At least 10 observational units in both categories (10 successes and 10 failures)
+
+Mean CI validity conditions:
+
+-Quantitative Variable
+
+-Symmetric Distribution
+
+-At least 20 Observations
+
+CI=Observered_Statistic $\pm$ Margin_Of_Error
+
+Observed_Statistic = $\hat{p}$ {if working with a proportion}
+
+Observed_Statistic = $\bar{x}$ {if working with a mean}
+
+Margin_Of_Error = Multiplier\*Standard_Error
+
+Standard_Error = $\sqrt{\frac{\hat{p}(1-\hat{p}) }{n}}$ {If working with proportion}
+
+Standard_Error = $\sqrt{\frac{s^{2} }{ n} }$ {if working with a mean}
+
+Multiplier=$Z_{\alpha/2}$ {if working with a proportion}
+
+Multiplier=$t_{\alpha/2, df}$ {if working with a mean}
+
+$Z_{\alpha/2}$ = 1.96 {IF confidence level is 95%}
+
+$t_{\alpha/2, df}$ = {table required}
+
+df=n-1
+
+VALDIDTIY CONDTIOINS
+
+At least 10 observational units in both categories (10 successes and 10 failures)
+
+**Assessment:**
+
+You sampled 100 people at a movie theater to rate some movie on a scale from 1 to 10. The average rating in the sample is 7.5 out of 10, with a sample variance of 2, what is the 95% confidence interval for the watcher rating of the movie. Are the validity conditions met?
+
+In a sample of 90 people, the average number of cantaloupes purchased per person on their last grocery run was 3.1 with a sample standard deviation of 5, what is the 95% confidence interval for the average amount of cantaloupes purchased for all customers? Are the validity conditions met?
+
+INCLUDE t TABLE IN HANDOUT

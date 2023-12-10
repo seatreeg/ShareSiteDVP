@@ -120,7 +120,7 @@ numdf$yy <- (power.t.test(n=20, d = numdf$inp, sig.level = 0.05, power = NULL, t
 plot(numdf$inp, numdf$yy,ylab="power",xlab="effect size", main="power as effect size increases", )
 ```
 
-**Assessment**
+**Assessment:**
 
 ERRORS: Students will be given an example of an experiment, a conclusion, and the truth, and they will be asked to put the example in one of 4 boxes on the type of error/correct conclusion chart. DELIVERY: IN CLASS PAPER WHICH CAN BE TAKEN HOME AND RETURNED THE FOLLOWING LECTURE. STAKES: MEDIUM HOMEWORK POINTS
 

@@ -1,0 +1,57 @@
+---
+title: "PLANDOCDAY21"
+---
+
+## DAY 21
+
+**Objectives:**
+
+Students will be able to identify a statistical error in certain incorrect statements.
+
+Students will be able to design studies to achieve biased results in order to identify/prevent them
+
+Students will be able to better identify when more information is needed
+
+**Concepts:**
+
+At least once/comparisons/manytests
+
+confounding variable
+
+purely comparing averages
+
+practical suvirorship bias+what you read as a form of statistical sampling (reading from one source)
+
+flat output tools-\> always fail to reject ("done wrong")
+
+biased tools -\> always reject \[example, my shitty e coli project\]\[camera that emits pure noise\]
+
+wrong design for conclusion/idea not tested
+
+not generalizable
+
+**Lesson Material:**
+
+This one should be a bit more of an easygoing/fun(?) section as we talk about the different types of errors/bad design that can come up accidentally or maliciously. Math will be sparing except for the at least once portion.
+
+We will start by defining the p value again, and pointing out a flaw with the idea: if you try something enough times, you are bound to get that result at least once. We will then talk about how this applies to studies and how it can happen accidentally and how to avoid it+research ethically.
+
+With the P value concept, we will then talk about survirship bias in result that come to mind, and look at reading/researching topics as a form of statistical sampling where you are exposing yourself to a limited amount of data, data which can be biased if the result is more sensational (e.g. many tabloid articles will show studies that get the most shock/have fun results, rather than being thorough)
+
+We will also discuss how significant results can also be random chance alone, and that seeing studies with contradictory results is a fundamental part of science, hence why replication is important.
+
+We will then discuss how tools of measurement can play a role in the results, specifically how impercise tools can turn Type II, as random noise may show no difference (here i will give an example of an experiment I did where I was using very bad tools and probably came up with nothing because of it)
+
+Finally we will look into how small differences can produce significance over large sample sizes, and while looking at just the mean difference can produce bad conclusions, solely looking at significance can also be a problem, so it is important to look at a variety of measurements when finding conclusions.
+
+-=-=
+
+**Assessment:**
+
+"19 studies show that there is no association between happiness and painting your computer the color blue, but a recent study showed a significant difference in happiness for people who painted their computer blue, are the previous studies wrong?" No, variation is normal
+
+"multiple studies show a significant difference in happiness in patient who were assigned to regularly eat shredded gold, should you budget your money to pay for regular meals with shredded gold" No, we have no idea if the effect is large enough to make a difference worth the cost
+
+"a chocolate company wants you to find a health benefit to eating their candy in order to increase sales, how can you find this without technically lying?" test for a large number of traits until significance is apparent
+
+"a leaded gasoline company wants you to show that their gasoline has an immeasurable effect on public health. In an experiment where people are exposed to leaded fumes, how do you find this result without technically lying?" Use imprecise instruments to measure the results

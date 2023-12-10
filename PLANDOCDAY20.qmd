@@ -1,0 +1,73 @@
+---
+title: "PLANDOCDAY20"
+---
+
+## DAY 20
+
+Section 4.1/2
+
+**Objectives:**
+
+Students can explain what explanatory and response variables are and why we use those terms instead of independent and dependent in statistics
+
+students can describe and identify experiment and observational studies
+
+students understand the effect confounding/lurking variables have on studies
+
+students can make study diagrams
+
+students know correlations isnt \_\_\_\_\_
+
+Student know the role of random assignment in establishing cuasation
+
+Students have some understanding of blocking
+
+**Concepts:**
+
+explanatory
+
+response
+
+confounding/lurking variable
+
+experiment
+
+observational study
+
+Study diagramming
+
+**Intuition tools:**
+
+**Lesson Material:**
+
+We will begin by reviewing the explanatory and response variables, we have gone over these a lot, but this time it is very important that there arent any mistake made in defining these and sometimes repeating can help when its later in the semester.
+
+We will then go over a weird correlation, and then add a lurking variable that makes everything make sense. In this case, the ice cream shark attack example may be used.
+
+From that we will point out that the heat wave is a lurking. confounding variable, and modify the study diagram.
+
+We will then talk about the two different studies, and how experiments differ from observation. we will review the strengths of each including:
+
+-establishment of causation
+
+-controlling for factors that coincide with the other
+
+-ethical/economic limits
+
+Specifically, we will need to stress the importance fo random assignment in the experiments, otherwise a similar effect could still take place.
+
+We will also talk about some side limits that can still infer with experiments, such as measuring the wrong characteristic or not being able to randomize certain aspects.
+
+We will then briefly discuss blocking as a way to generate conlcusions.
+
+**Assessment:**
+
+Students will be given a simple study and be asked to diagram it.
+
+Students will then be told about a confound and asked to include it in the diagram
+
+Students will be given a question with certain goals in mind, and they will be asked to determine what kind of study they should use (observation of experiment)
+
+Students will be asked to identify the randomization (and what is not) in an experiment
+
+Students will be given a situation with some wildly differing groups and be asked what to block.

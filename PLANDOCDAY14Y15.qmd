@@ -1,0 +1,84 @@
+---
+title: "PLANDOCDAY14Y15"
+---
+
+## DAY 14+15
+
+**Objectives:**
+
+Students know the effect of statistic, margin of error, confidence level, standard error, variance, and sample size on the length of the confidence interval
+
+Students can explain what extreme confidence intervals look like
+
+Students know what happens to a confidence interval at very large n
+
+**Concepts:**
+
+Confidence interval Range/width/length
+
+CI hypothesis testing
+
+2SD method
+
+**Intuition tools:**
+
+lumps
+
+bars on lumps
+
+bars on lumps vs other bars on lumps
+
+**Lesson Material:**
+
+I plan to first take some time to reflect on confidence intervals
+
+While doing so, we will show confidence interval hypothesis testing by showing lumps with bars and how they overlap or dont, we will also show error bars that go over zero and talk about what they mean.
+
+After words, we will talk about the effect of each variable on confidence interval range, and then show simulations demonstrating what happens when they are brought to the extremes (I have an R sim somewhere that simulates this, as I had used it when i was teaching)
+
+Basically, the main point that show up is that increasing sample size can shrink the CI down to a theoretical single value.
+
+I would like to have a shiny app that does somnething similar that students can use, but they will be given this table
+
+| Increasing \_\_\_\_\_\_\_\_       | \_\_\_\_\_\_\_\_ the CI width |
+|-----------------------------------|-------------------------------|
+| the statistic: $\mu, \bar{x},...$ | has no effect on              |
+| Margin of error                   | increases                     |
+| Confidence level                  | increases                     |
+| Standard error                    | increases                     |
+| Variance of original sample       | increases                     |
+| Sample size                       | decreases                     |
+
+I then plan to show the trick where you can purely use visuals to get the standard deviation, and then I will introduce them to the 2SD method. (I know this works for the norm, but I will look into other ones)(this is the ratio/inflection point method)
+
+From this we should be able to do use images of lumps alone to do significance testing using confidence intervals. It will be mostly visual and with few numbers, so i think it will be a nice change of pace and very helpful for intuition.
+
+From that, I may, optimistically, be able to introduce them to the F distribution. Given that this is all just standard deviation from lumps, and those standard deviations make bars on the lumps, and those bars on the lumps allow you to significance test, then using that method to show the intuition behind the f distribution.
+
+If possible, we will briefly go over the f ratio, and how it relates to anova/how its used. This may seem optimistic, but I am fairly confident that the use of visual lumps could allow them to learn this concept without it being too difficult. I will not go over anova tables, just the ratio.
+
+I will cover sims vs theory, but i do need to thoroughly study re sampling before I share any information about it.
+
+**Assessment:**
+
+{revisited}"you find that the confidence interval is 95% between -5 and +5, so are 95% of values in the sample within (-5,+5)" FALSE, its the sampling distribution
+
+{revisited}"Why dont we use 100% confidence intervals to give absolute certainty with out estimations" They would describe all possible values and thus be useless
+
+{revisited}"Given a mean value of mu and a continuous distribution, what is the 0% confidence interval?" (mu,mu) or just mu
+
+"We simultaneously want to be very certain of our confidence interval, and want the confidence interval to be small, how can we do that in terms of sample size and confidence level" High Confidenc level, high sample size.
+
+Students will be given data, then they will be asked to draw the sampling distribution change (loosely)
+
+Students will be given a lump with a null line. They will need to:
+
+-approximate the standard deviation
+
+-proximate the CI using 2SD
+
+-determine if they will reject or fail to reject
+
+-(Maybe a similar question with the f ratio, it depends, we will allocate more time to this section but there also still is a lot of material, so i will adjust my plans as I see the classes performance)
+
+Students will be given a qsduestion on confidence intervals as before, but they will be expected to know which formulas to use based on the context of the question.

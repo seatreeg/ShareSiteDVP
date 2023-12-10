@@ -1,0 +1,59 @@
+---
+title: "PLANDOCDAY11"
+---
+
+## DAY 11
+
+**Objectives:**
+
+> Students can describe how confidence level effects the CI
+>
+> Students understand the main purpose and meaning of a confidence interval
+>
+> Students understand the CI describes the sampling distribution, not the original data as a whole
+>
+> Students know the meaning of the margin of error
+>
+> Students understand confidence level as something you set prior, not as a result of the data
+>
+> Students can describe how confidence level effects the CI
+
+**Concepts:**
+
+> Confidence Interval
+>
+> Sampling distribution
+>
+> Margin of Error
+>
+> Confidence Level
+>
+> Standard Error
+
+**Intuition Tools:**
+
+> Extreme Confidence Levels
+
+**Lesson Material:**
+
+CONFIDENCE INTERVAL: A range of values where there is a probability (The confidence level) that the parameter is within. For example, if we have a Confidence interval of (-1,1) and a confidence level of 95%, and this confidence interval is estimating the mean, then we are 95% confident that the [population mean]{.underline} is between -1 and 1.
+
+CONFIDENCE LEVEL: A value of how much certainty is desired when estimating the parameter. You can be more confident in larger ranges of numbers, but larger intervals are less specific. For example, I may be 80% confident I will end the semester with a grade between 85% and 95%, but I'm nearly 100% confident I will get a grade between -100,000% and +100,000%.
+
+SAMPLING DISTRIBUTION: Probability distribution describing where you predict the true estimate to be. Usually we are use to predictions being single values, but the sampling distribution is a whole distribution of probabilities. To be statistically honest, you arent saying a single value, but instead claiming that there are some values that are more likely than others. {this needs some work}.
+
+STANDARD ERROR: Estimate of the variance of the sampling distribution. More varied data will be more difficult to have small confidence intervals, and parameters will be harder to estimate. This is estimated by dividing the variance by the sample size
+
+MARGIN OF ERROR: Value that shows how large the confidence interval will be, it is formed by multiplying the confidence level by the standard error.
+
+CENTRAL LIMIT THEOREM: Can be complex, but essentially drawing multiple samples from the same distribution will likely arrive at the normal distribution.
+
+EFFECT OF MORE SAMPLES: Sampling distribution becomes more normal, Standard error goes down, confidence interval shrinks.
+
+**Assessment: {some of these may be saved for later}**
+
+"you find that the confidence interval is 95% between -5 and +5, so are 95% of values in the sample within (-5,+5)" FALSE, its the sampling distribution
+
+"Why dont we use 100% confidence intervals to give absolute certainty with out estimations" They would describe all possible values and thus be useless
+
+"Given a mean value of mu and a continuous distribution, what is the 0% confidence interval?" (mu,mu) or just mu

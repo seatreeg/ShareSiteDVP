@@ -1,0 +1,100 @@
+---
+title: "PLANDOCDAY16"
+---
+
+## DAY 16+17+18+19
+
+NOTE: Alongside confidence intervals, I would really like to spend more time on categorical response as it is SO COMMON in life. Students may not be making regression models in the mid-distant future, but it is very likely that they will be confronted with confidence intervals and even more so likely that they will have a "difference of two groups" question that involves a categorical response. There inst as much as I would like here for now, so i plan to develop it more in the future.
+
+**Objectives:**
+
+Students know how to compare groups of categorical response and explanatory\
+Students know how to use conditional proporiton tables
+
+Students understand relative risk
+
+Students can us the two proportions simulate differences applet
+
+**Concepts:**
+
+Categorical Response
+
+Conditional Probability
+
+Conditional Proportions
+
+Relative Risk
+
+Simulated differences
+
+Confidence intervals
+
+Chi squared
+
+**Intuition tools:**
+
+**Lesson Material:**
+
+The lesson will start with a review of the earlier material on conditional probability
+
+We will then go on to use a conditional proportion chart, simply examining the meaning without doing any inference.
+
+After this, we will ask if the groups are different, and then after some surface inspection, we will then begin calculating the conditional porportions.
+
+From this, we will then define and calculate relative risk
+
+RELATIVE RISK: Ratio between two conditional proporitions. or, "how many times large the risk of an outcome is for one group compared to another"
+
+=-=-=
+
+Using the proportion tables, we will then use the sim to calculated simulated differences of two groups to do significance testing.
+
+From that, we will then calculate the sim standardized statistic
+
+$$
+\frac{Observed Stat-Hypothesized Null}{StDev Of Null}=\frac{(\hat{p_1}-\hat{p_2})-0}{SimulatedFromApplet}
+$$
+
+Later we will also work with the theory based approach
+
+Validity contentions (at least 10 observations in each box)
+
+$$
+SE=\sqrt{\hat{p}(1-\hat{p})(\frac{1}{n_1}+\frac{1}{n_2})}
+$$
+
+$$
+\hat{p}=\frac{s1+s2}{n1+n2}
+$$
+
+From that applying the ci
+
+$$
+(p^*_1-p^*_2)\pm 2*\sqrt{\hat{p}(1-\hat{p})(\frac{1}{n_1}+\frac{1}{n_2})}
+$$
+
+Ya know, because 2 is usually good enough.
+
+From this, I was considering touching on fishers exact test and chi square, but really chi square should be enough since it is used frequently in the biology course they will be taking.
+
+CHI SQUARE:::NEED MORE INVESTIGATION
+
+$$
+\chi^2_{df}=\sum\frac{(O-E)^2}{E}
+$$
+
+Where E is the expected under the null, and O is the observed value of the cell
+
+Useful just about everywhere.
+
+**Assessment:**
+
+Students will be given counts of fly genotypes and expected ratios for those genotypes. Using a chi square test, they will be asked to determine if the flies are mating randomly.
+
+Students will be given a box of proportions, they will be asked to find the conditional proportions of two conditions and the relative risk between the two.
+
+Students will then use the aforementioned box to calculate the confidence interval of the difference of the two groups
+
+Students will be asked to do a similar task but using the simulated differences applet.
+
+Students may be given a chi square problem with a 0 expected and asked what to do (this happened to me in a bio course)
