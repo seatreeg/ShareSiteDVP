@@ -1,0 +1,23 @@
+---
+title: "FINALPROJECTIDEAS"
+---
+
+For the final project, I have a few goals in mind
+
+-   All projects must have the same learning value (e.g. Students should not cover different topics covered in class, and instead should cover the same ideas but different. For presenting, they may be given the same paper prompt but only present on randomly selected sections, but that may be a sign too much is assigned so realistically they should all have similar prompts)
+
+-   Final project should be non-stressful if prepared thoroughly
+
+-   Final project will ideally be before or after most finals
+
+-   Final project should ideally be a bit fun (by class standards) and exciting (by class standards), ideally i don't want people to dread doing this, and doubly ideally i would like people to actually look forward to some aspects of it
+
+-   Project reserve/checkpoints will be in place to keep work going and avoid overlapping topics.
+
+Some ideas so far
+
+List of (person-specific) questions: This one is straightforward, they are asked questions and told to work out the answers and submit them as a paper. Questions will be generated with r markdown with the answers, but will be reviewed personally. This is the simple easy option. Essentially the backup.
+
+Flaw investigation: students will be given a fake paper (or multiple) and be asked to find the flaws included and present on it as a critique.
+
+Some Truths 1 Lie: after covering the many ways to analyze data and all of the misleading ways you can present that data, students will be assigned with finding data that is technically true misuesed to the point of dishonesty. Ideally they would collect this, but that could be dangerous (see also: my interview) and also just a lot of time that they may not have, so I was considering having some sort of location to gather data (like a sampling simulator for a bunch of different topics in R Shiny (some null some not, all randomly generated but need a request to be sent in that takes time), or ask them to find papers). Prior to the presentation, we would discuss the data fabrication incident that was covered in Alpha Seminar, and data fabrication in general. In the presentation, the students will need one piece of completely fabricated data (they will show this as a histogram or a collection of groups with error bars).

@@ -228,7 +228,7 @@ Section 2-2/3 25min \~ ACTIVITY
 
 -   Predict the relative power and P from visual charts alone
 
-\>\>\>["DAY" 11](PLANDOCDAY11.qmd) 
+\>\>\>["DAY" 11](PLANDOCDAY11.qmd)
 
 Section 3.1: confidence interval introduction
 
@@ -262,7 +262,7 @@ Section 3.2: proportion interval
 
 -   validity conditions (said again)
 
-\>\>\>["DAY"13](PLANDOCDAY13.qmd) 
+\>\>\>["DAY"13](PLANDOCDAY13.qmd)
 
 Section 3.3: mean interval
 
@@ -416,7 +416,7 @@ section ?.? Statistical error: Interaction
 
 -   Interaction plots
 
--   Interaction in errors/conclusiions
+-   Interaction in errors/conclusions
 
 -   blocking?\
 
@@ -448,7 +448,7 @@ chapter 6.3 Theory based approach
 
 -   Reiterate Reject/FTR conditions
 
--   Restate validity conitions
+-   Restate validity conditions
 
 \>\>\>PAIRED DATA
 
@@ -460,4 +460,6 @@ chapter 6.3 Theory based approach
 
 -   Introduction to data fabrication (show RNG article)
 
-\>\>\>"FINAL PROJECT"
+\>\>\>["FINAL PROJECT"](FINALPROJECTIDEAS.qmd)
+
+-   Present misleading data + fabricated data
